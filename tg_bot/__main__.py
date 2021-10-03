@@ -35,8 +35,8 @@ HELP_STRINGS = """
 Hey there! My name is *{}*.
 
 Pls Join And Support 🤩
-🔰 ɢʀᴏᴜᴘ 🔰   - [🔰ᴍᴏᴠɪᴇ ʜᴏᴜꜱᴇ🔰](https://t.me/movie_house2)
-⭕️ ᴄʜᴀɴɴᴇʟ ⭕️ - [⭕️ DS_Movies ⭕️](https://t.me/ds_movies1)
+ ɢʀᴏᴜᴘ    - [🔰ᴍᴏᴠɪᴇ ʜᴏᴜꜱᴇ🔰](https://t.me/movie_house2)
+  ᴄʜᴀɴɴᴇʟ  - [⭕️ DS_Movies ⭕️](https://t.me/ds_movies1)
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
@@ -150,7 +150,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="🤖 Make Own Admin Bot", url="https://youtu.be/W6CLKrehy6w")],
-                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/KeralaBots"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/KochuUpdates")],
+                     [InlineKeyboardButton(text="🔰 ɢʀᴏᴜᴘ 🔰", url="https://t.me/movie_house2"), InlineKeyboardButton(text="⭕️ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/ds_movies1")],
                      [InlineKeyboardButton(text="🎬 Youtube Channel", url="https://www.youtube.com/stealthtechnogaming?sub_confirmation=1"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
