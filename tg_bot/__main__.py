@@ -152,7 +152,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                     [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username))
                      [InlineKeyboardButton(text="⚜️ My Developer ⚜️", url="https://t.me/DS_KUNJAVA")]
                      [InlinekeyboardButton(text="🔰 ɢʀᴏᴜᴘ 🔰", url="https://t.me/movie_house2"), InlineKeyboardButton(text="⭕️ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/ds_movies1")],
-                     [InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                     [InlineKeyboardButton(text="🎬 Youtube Channel", url="https://www.youtube.com/stealthtechnogaming?sub_confirmation=1"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
