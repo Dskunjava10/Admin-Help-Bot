@@ -152,7 +152,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlimeKeyboardButton(text="⚜️ My Developer ⚜️", url="https://t.me/DS_KUNJAVA"))],
+                     [InlimeKeyboardButton(text="⚜️ My Developer ⚜️", url="https://t.me/DS_KUNJAVA")],
                      [InlineKeyboardButton(text="🔰 ɢʀᴏᴜᴘ 🔰", url="https://t.me/movie_house2"), InlineKeyboardButton(text="⭕️ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/ds_movies1")],
                      [InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
