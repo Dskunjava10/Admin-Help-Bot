@@ -35,7 +35,8 @@ HELP_STRINGS = """
 Hey there! My name is *{}*.
 
 Pls Join And Support 🤩
-
+🔰 ɢʀᴏᴜᴘ 🔰   - [🔰ᴍᴏᴠɪᴇ ʜᴏᴜꜱᴇ🔰](https://t.me/movie_house2)
+⭕️ ᴄʜᴀɴɴᴇʟ ⭕️ - [⭕️ DS_Movies ⭕️](https://t.me/ds_movies1)
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
