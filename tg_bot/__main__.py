@@ -39,9 +39,9 @@ Pls Join And Support 🤩
 🔰 ɢʀᴏᴜᴘ 🔰    - [Mᴏᴠɪᴇ Hᴏᴜꜱᴇ](https://t.me/movie_house2)
 ⭕️  ᴄʜᴀɴɴᴇʟ ⭕️ - [DS_Movies](https://t.me/ds_movies1)
 
-*How To Connect This Bot To Your Group*
-*1:*Add To Your Group And Make Me Admin.
-*2:*Go To Your Group And Type /Connet.
+*How To Connect This Bot To Your Group*:
+*1:* Add To Your Group And Make Me Admin.
+*2:* Go To Your Group And Type /Connet.
 Then I will connect to your group.
 
 *Main* Commands Available:
