@@ -39,7 +39,12 @@ Pls Join And Support 🤩
 🔰 ɢʀᴏᴜᴘ 🔰    - [Mᴏᴠɪᴇ Hᴏᴜꜱᴇ](https://t.me/movie_house2)
 ⭕️  ᴄʜᴀɴɴᴇʟ ⭕️ - [DS_Movies](https://t.me/ds_movies1)
 
-*Main* commands available:
+*How To Connect This Bot To Your Group*
+*1:*Add To Your Group And Make Me Admin.
+*2:*Go To Your Group And Type /Connet.
+The Bot Will Connect To Your Group.
+
+*Main* Commands Available:
  - /start: start the bot
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
@@ -146,7 +151,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlimeKeyboardButton(text="⚜️ My Developer ⚜️", url="https://t.me/DS_KUNJAVA")],
+                     [InlineKeyboardButton(text="⚜️ My Developer ⚜️", url="https://t.me/DS_KUNJAVA")],
                      [InlineKeyboardButton(text="🔰 ɢʀᴏᴜᴘ 🔰", url="https://t.me/movie_house2"), InlineKeyboardButton(text="⭕️ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/ds_movies1")],
                      [InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
