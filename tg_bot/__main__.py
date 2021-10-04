@@ -42,7 +42,7 @@ Pls Join And Support [🙏](https://telegra.ph/file/8e645807624c0800beca8.jpg),
 *How To Connect This Bot To Your Group*:
 *1:* Add To Your Group And Make Me Admin.
 *2:* Go To Your Group And Type /id and copy id of group.
-*3:* Come To Bot And Type /connect *Group Id*
+*3:* Come Back To Bot And Type /connect <*Group Id*>
 Then I will connect to your group.
 
 *Main* Commands Available:
@@ -151,7 +151,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username))],
+                    [[InlineKeyboardButton(text="🎉 Add me to your group 🎉", url="t.me/{}?startgroup=true".format(bot.username))],
                      [InlineKeyboardButton(text="⚜️ My Developer ⚜️", url="https://t.me/DS_KUNJAVA")],
                      [InlineKeyboardButton(text="🔰 ɢʀᴏᴜᴘ 🔰", url="https://t.me/movie_house2"), InlineKeyboardButton(text="⭕️ ᴄʜᴀɴɴᴇʟ ⭕️", url="https://t.me/ds_movies1")],
                      [InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
