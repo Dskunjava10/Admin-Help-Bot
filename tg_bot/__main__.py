@@ -41,7 +41,8 @@ Pls Join And Support [🙏](https://telegra.ph/file/8e645807624c0800beca8.jpg),
 
 *How To Connect This Bot To Your Group*:
 *1:* Add To Your Group And Make Me Admin.
-*2:* Go To Your Group And Type /Connet.
+*2:* Go To Your Group And Type /id and copy id of group.
+*3:* Come To Bot And Type /connect *Group Id*
 Then I will connect to your group.
 
 *Main* Commands Available:
