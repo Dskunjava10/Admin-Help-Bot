@@ -42,7 +42,7 @@ Pls Join And Support 🤩
 *How To Connect This Bot To Your Group*
 *1:*Add To Your Group And Make Me Admin.
 *2:*Go To Your Group And Type /Connet.
-The Bot Will Connect To Your Group.
+Then I will connect to your group.
 
 *Main* Commands Available:
  - /start: start the bot
